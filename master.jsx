@@ -1,1 +1,1 @@
-This is master file
+var x = "This is master file";
